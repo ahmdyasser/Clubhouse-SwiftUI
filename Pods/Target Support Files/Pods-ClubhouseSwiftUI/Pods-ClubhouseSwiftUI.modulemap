@@ -1,0 +1,6 @@
+framework module Pods_ClubhouseSwiftUI {
+  umbrella header "Pods-ClubhouseSwiftUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
