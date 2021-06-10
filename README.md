@@ -1,2 +1,2 @@
 # Clubhouse-SwiftUI
-A Clubhous app clone with SwiftUI framework
+A Clubhouse app clone with SwiftUI framework
